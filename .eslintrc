@@ -26,9 +26,7 @@
 		"plugin:@typescript-eslint/recommended"
 	],
 	"rules": {
-		"no-console": [
-			"error"
-		],
+		"no-console": 0,
 		"no-unreachable": [
 			"error"
 		],
