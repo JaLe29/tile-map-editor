@@ -21,8 +21,6 @@ const ResultsModal = ({ elementSize, data, isVisible, onClose }: IProps) => {
 		})
 	}, [data, elementSize])
 
-	console.log(data)
-
 	return (
 		<Modal
 			title='Results Modal'
